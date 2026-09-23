@@ -1,6 +1,6 @@
-# storing drink name
+# giving drink name
 drink = "tea"
-# storing sales number of tea is 3 and number of coffee is 5
+# giving sales number of tea is 3 and number of coffee is 5
 sales = {"tea": 3, "coffee": 5}
 # getting number of sold tea
 sold = sales[drink]
